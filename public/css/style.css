@@ -1,0 +1,20 @@
+body{
+    background-color: #99badd;
+    }
+    
+    #headline
+    {
+      color: white;
+    }
+    
+    #dataTitle 
+    {
+      font-style: italic;
+      color: black;
+    }
+    
+    #articles 
+    {
+    overflow: scroll;
+    height:350px;
+    }
